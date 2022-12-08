@@ -5,7 +5,11 @@ So let's get started!
 1. Setup Your project
 
 ```bat
-mkdir ts-discord-bot && cd ts-discord-bot
+mkdir ts-test && cd ts-test
+```
+
+```bat
+touch index.ts
 ```
 
 ```bat
