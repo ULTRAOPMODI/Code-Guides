@@ -32,7 +32,7 @@ function calc(x: number, y: number)
 void calc(7, 7);
 ```
 
-And this file then run this command on your cmd
+And save this file then run this command on your cmd
 ```bat
 npx ts-node ./index.ts
 ```
