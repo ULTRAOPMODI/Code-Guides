@@ -32,3 +32,5 @@ And this file then run this command on your cmd
 ```bat
 npx ts-node ./index.ts
 ```
+
+And now your **TypeScript** file is running!!!
